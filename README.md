@@ -1,4 +1,4 @@
-## Oi! Eu sou o Thiago
+## Hi! I am Thiago, nice to meet you!
 <div align="center">
   <a href="https://github.com/ThMeloDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThMeloDev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
