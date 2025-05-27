@@ -13,7 +13,7 @@ Sou um Desenvolvedor de Software apaixonado por criar soluções tecnológicas q
 
 ## 🚀 Sobre Mim
 
-No meu dia a dia na Lojas Quero-Quero, contribuo ativamente para o desenvolvimento de soluções internas robustas e escaláveis. Um dos projetos de destaque em que trabalhei foi uma **plataforma interna parametrizável para cadastro de produtos, com a criação de workflows personalizados**, facilitando fluxos complexos de aprovação e adaptando-se às necessidades de diversas áreas da empresa. Também tenho experiência em **integrações estratégicas com a plataforma VTEX**, visando a comunicação eficiente entre sistemas internos e externos, com foco em escalabilidade e performance.
+No meu dia a dia nas Lojas Quero-Quero, contribuo ativamente para o desenvolvimento de soluções internas robustas e escaláveis. Um dos projetos de destaque em que trabalhei foi uma **plataforma interna parametrizável para cadastro de produtos, com a criação de workflows personalizados**, facilitando fluxos complexos de aprovação e adaptando-se às necessidades de diversas áreas da empresa. Também tenho experiência em **integrações estratégicas com a plataforma VTEX**, visando a comunicação eficiente entre sistemas internos e externos, com foco em escalabilidade e performance.
 
 Minha trajetória na Lojas Quero-Quero começou como estagiário no programa **QQ-Tech**, onde tive uma imersão intensiva em tecnologias como **React, NestJS e Postgres**. Posteriormente, como parte de uma squad, trabalhei em um **projeto mobile utilizando Flutter**, desenvolvendo uma solução para otimizar visitas técnicas.
 
