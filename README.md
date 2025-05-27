@@ -1,11 +1,13 @@
 # Olá, eu sou o Thiago Melo! 👋
 
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 16px; flex-wrap: wrap;">
-    <img alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thmelodev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-    <a href="https://git.io/streak-stats">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=thmelodev&theme=dark&locale=pt_BR&short_numbers=true" />
-    </a>
-</div>
+<a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="GitHub Streak" 
+      src="https://streak-stats.demolab.com?user=thmelodev&theme=dark&locale=pt_BR&short_numbers=true" 
+      style="max-width: 100%; height: auto;" 
+    />
+</a>
+
 
 Sou um Desenvolvedor de Software apaixonado por criar soluções tecnológicas que otimizam processos, geram valor para os negócios e impactam positivamente a vida das pessoas. Atualmente, atuo como **Analista Programador Jr na Lojas Quero-Quero S.A.**, onde me dedico ao desenvolvimento de software e à busca contínua por evolução na área de tecnologia.
 
@@ -19,7 +21,13 @@ Minha trajetória na Lojas Quero-Quero começou como estagiário no programa **Q
 
 Tenho experiência e venho trabalhando com um conjunto diversificado de tecnologias, incluindo:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+ <img 
+    alt="Most Used Languages" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thmelodev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" 
+    style="max-width: 100%; height: auto;" 
+  />
+
+<div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
