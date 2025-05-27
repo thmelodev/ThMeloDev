@@ -41,7 +41,7 @@ Tenho experiência e venho trabalhando com um conjunto diversificado de tecnolog
 </div>
 <br>
 
-Estou sempre aprendendo e buscando expandir meu conhecimento em novas tecnologias e boas práticas de desenvolvimento.\_
+Estou sempre aprendendo e buscando expandir meu conhecimento em novas tecnologias e boas práticas de desenvolvimento.
 
 ## 📚 Estudando no momento
 
