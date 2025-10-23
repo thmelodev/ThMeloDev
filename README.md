@@ -21,12 +21,6 @@ Minha trajetória nas Lojas Quero-Quero começou como estagiário no programa **
 
 Tenho experiência e venho trabalhando com um conjunto diversificado de tecnologias, incluindo:
 
- <img 
-    alt="Most Used Languages" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thmelodev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" 
-    style="max-width: 100%; height: auto;" 
-  />
-
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
